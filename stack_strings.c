@@ -1,4 +1,4 @@
-[O#include "monty.h"
+#include "monty.h"
 
 /**
  * print_char - Prints the Ascii value.
